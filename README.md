@@ -7,6 +7,7 @@
 ### Projetos
 
 Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
+* **QuarentenaDados** - encurtador.com.br/puCI7
 
 ---
 

@@ -19,7 +19,7 @@ Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
 
 ---
 
-###Contatos 
+### Contatos 
 
 * **Linkedin** - https://www.linkedin.com/in/alinelisandra/
 * **E-mail** - alinellinhares@gmail.com

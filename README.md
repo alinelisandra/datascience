@@ -16,3 +16,11 @@ Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
 * **Técnica em Informática** - Instituto Federal da Bahia
 * **Graduanda em Sistemas de Informação** - Universidade Estadual da Bahia
 * **Graduanda em Ciência de Dados** - Wyden Educacional
+
+---
+
+###Contatos 
+
+* **Linkedin** - https://www.linkedin.com/in/alinelisandra/
+* **E-mail** - alinellinhares@gmail.com
+* **Telefone** - (71) 9 9216 7957

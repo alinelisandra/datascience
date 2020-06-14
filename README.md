@@ -7,7 +7,7 @@
 ### Projetos
 
 Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
-* **Tese de Mestrado sobre Acesso Cultural de estudantes da UNEB** - https://bit.ly/tesemestrado
+* **Dissertação de Mestrado sobre Acesso Cultural de estudantes da UNEB** - https://bit.ly/tesemestrado
 
 ---
 

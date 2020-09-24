@@ -12,6 +12,13 @@ Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
 
 ---
 
+### Artigos no LinkedIn:
+
+* **O que Moneyball me ensinou sobre Análise de Dados para Negócios** - https://www.linkedin.com/pulse/o-que-moneyball-me-ensinou-sobre-an%C3%A1lise-de-dados-para-aline-linhares/
+* **Explicando Análise de Dados para amigos leigos** - https://www.linkedin.com/pulse/explicando-an%C3%A1lise-de-dados-para-amigos-leigos-aline-linhares/
+
+---
+
 ### Sobre mim:
 
 * **Técnica em Informática** - Instituto Federal da Bahia

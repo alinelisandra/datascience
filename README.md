@@ -21,9 +21,9 @@ Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
 
 ### Sobre mim:
 
-* **Técnica em Informática** - Instituto Federal da Bahia
-* **Graduanda em Sistemas de Informação** - Universidade Estadual da Bahia
-* **Graduanda em Ciência de Dados** - Wyden Educacional
+* 2009 - 2014 **Técnica em Informática** - Instituto Federal da Bahia
+* 2014 - 2021 **Graduanda em Sistemas de Informação** - Universidade Estadual da Bahia
+* 2020 - 2021 **Graduanda em Ciência de Dados** - Wyden Educacional
 
 ---
 

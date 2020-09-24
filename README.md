@@ -7,7 +7,7 @@
 ### Projetos
 
 Aqui você encontra os notebooks dos meus projetos realizados em Data Science.
-* **Dissertação de Mestrado sobre Acesso Cultural de estudantes da UNEB** - https://bit.ly/tesemestrado
+* **Dissertação de Mestrado sobre Acesso Cultural de estudantes da UNEB** - http://bit.ly/dissertaçãomestrado
 * **Analise Exploratória de Dados do Airbnb no Rio de Janeiro** - http://bit.ly/analise-airbnb-rj
 
 ---
